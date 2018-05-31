@@ -1,18 +1,11 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/9.jpg
+title:  "Dungeon and Dragons"
+author: Patrick
+categories: [ Gaming, Fantasy ]
+image: assets/images/Dragon1.png
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Saturday night we started a Dungeon and Dragon game online. The group consisted of John (as Dungeon Master), Billy (as Darra), Jennifer (as Elmendorf), Alfie (as Brinklehoff), Billy Jr. (as KenKann), Chris (as Duratan), and me (as NighScar). We all played this from the comfort of our home using a program called Fantasy Grounds, Roll20 for sound effect and Discord to speak with each other. This program lets us play a paper and pencil game online. The program automates most of thew ork, such as scoring and putting the characger sheet online. it was a lof of fun being able to play with everone. We started about 9:00 pm and did not finish until 1:00 am. It was a long game that took us through only gtwo rooms. But many of the game playig was all of us learning how the system worekd and learning all the intriciteis of the game. John the Dungeon Master did a fantastic job of keeping us on track, interested and asnwering questions as well as admitting at time that he was still learning the system. He would give us the advantage if he was not sure of something until he was able to reearch it. It was really nice to play with family (Brinlehoff and Elmendorf) and I did miss playing console or any games with Billy and John so that is an added benefit. BOth Billy and John or old masters at D&D  so it is nice to hear the conversations and learn from them. Next week we start our first official game where we will be able to level up as we go. There are enough people interested in the game right now that we have to break up into two groups. Kirby and Timberwolf and Chris will go to the other group. This will add more time on John the DM because he will have to run two groups at seperate times but he loves playing the game so that helps. I am anticipating the next game, it is addictive but not to the point it would ruin my life. I remember in the early 80's overseas we had a sailor that committed suicide and they blamed it on D&D, but obviously he already had problems. Anyway cannot wait until the next game. **KEEP THE GEEK ON!**
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
-
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
-
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
+![D&D]({{ "assets/images/D&D.png" | absolute_url}})
