@@ -10,6 +10,25 @@ baseurl: /patrickestark.github.io
 # disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
+comments:
+ provider: "staticman"
+   staticman:
+ allowedFields          : ['name', 'email', 'url', 'message']
+ branch                 : # "master", "gh-pages"
+ commitMessage          : "New comment."
+ filename               : comment-{@timestamp}
+ format                 : "yml"
+ moderation             : false
+ path                   : "_data/comments/{options.slug}"
+ requiredFields         : ['name', 'email', 'message']
+ transforms:
+   email                : "md5"
+ generatedFields:
+   date:
+type               : "date"
+options:
+  format           : "iso8601"
+
 # Authors
 authors:
   Patrick:
