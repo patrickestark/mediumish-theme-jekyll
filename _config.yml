@@ -2,7 +2,7 @@
 name: Rambling
 description: This is where I geek out!
 meta_description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/pat.jpeg'
 favicon: 'assets/images/logo.png'
 paginate: 15
 baseurl: /mediumish-theme-jekyll
