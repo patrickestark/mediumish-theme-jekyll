@@ -1,7 +1,7 @@
 # Site
 name: Rambling
 description: This is where I geek out!
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+meta_description: "GEEK Blogger."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 paginate: 15
@@ -13,13 +13,13 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Patrick
+    display_name: Patrick
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    email: 2lostsoulsmedia@gmail.com
+    web: https://patrickestark.github.io
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Author of GEEK Blogger."
   john:
     name: John
     display_name: John
