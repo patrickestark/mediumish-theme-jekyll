@@ -12,7 +12,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 # Authors
 authors:
-  sal:
+  Patrick:
     name: Patrick
     display_name: Patrick
     gravatar: e2b95dc8df0177a0da5a6f842e123fb2
@@ -20,14 +20,7 @@ authors:
     web: https://patrickestark.github.io
     twitter: https://twitter.com/patrickestark
     description: "Author of GEEK Blogger."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  
 
 # Plugins
 plugins: 
