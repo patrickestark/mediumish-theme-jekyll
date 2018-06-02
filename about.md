@@ -4,7 +4,7 @@ title: About
 comments: true
 ---
 
-![My helpful screenshot]({{ "/assets/screenshot.jpg" | absolute_url }})
+![pat]({{ "/assets/pat.jpeg" | absolute_url }})
 
 
 ### This website is built using Jekyll.###
