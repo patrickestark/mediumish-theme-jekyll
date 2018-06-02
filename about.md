@@ -4,7 +4,7 @@ title: About
 comments: true
 ---
 
-![pat]({{ "/assets/pat.jpeg" | absolute_url }})
+![pat]({{ "/assets/images/pat.jpeg" | absolute_url }})
 
 
 ### This website is built using Jekyll.###
