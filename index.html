@@ -5,27 +5,6 @@ title: Home
 
 <!-- Featured
 ================================================== -->
-<section class="D&D-posts">
-    <div class="section-title">
-        <h2><span>Dungeons & Dragons</span></h2>
-    </div>
-    <div class="row listdragontag">
-        
-    {% for post in site.posts %}
-
-        {% if post.dragon == true %}
-
-            {% include dragonbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-        
-    </div>
-</section>
-
-<!-- Featured
-================================================== -->
 <section class="featured-posts">
     <div class="section-title">
         <h2><span>Featured</span></h2>
