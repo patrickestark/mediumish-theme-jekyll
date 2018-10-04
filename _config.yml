@@ -1,7 +1,7 @@
 # Site
 name: Rambling
 description: This is where I just ramble on!
-meta_description: "GEEK Blogger."
+meta_description: "Watch Enthusiast"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 paginate: 15
@@ -21,7 +21,7 @@ authors:
     email: linuxdesire@gmail.com
     web: https://patrickestark.github.io
     twitter: https://twitter.com/patrickestark
-    description: "Author of GEEK Blogger."
+    description: "Watch Enthusiast."
   
 
 # Plugins
