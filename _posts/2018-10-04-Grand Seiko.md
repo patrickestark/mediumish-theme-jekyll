@@ -8,7 +8,7 @@ image: assets/images/Snowflake.jpg
 featured: True
 ---
 
-This watch is truly a beauty, the Grand Seiko "Snowflake", which is referenced as SBGA011. Featuring a spring drive movement (calibre 9R65) that makes the second hand sweep as smooth as an electronic clock. If you look closely at the dial face you will see that is looks like snowflakes dotting the dial. If you look at 8:00 that is the power reserve (Rèserve de Marche) it is a complication of the watch, which is designed to show the amount of *remaining* stored energy. 
+This watch is truly a beauty, the Grand Seiko "Snowflake", which is referenced as SBGA211. Featuring a spring drive movement (calibre 9R65) that makes the second hand sweep as smooth as an electronic clock. If you look closely at the dial face you will see that is looks like snowflakes dotting the dial. If you look at 8:00 that is the power reserve (Rèserve de Marche) it is a complication of the watch, which is designed to show the amount of *remaining* stored energy. 
 
 ![Snowflake1]({{ "assets/images/Snowflake1.jpg" | absolute_url}})
 
